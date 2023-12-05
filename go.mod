@@ -3,9 +3,11 @@ module github.com/marcboeker/go-duckdb
 go 1.18
 
 require (
+	github.com/go-errors/errors v1.5.1
 	github.com/google/uuid v1.3.0
 	github.com/mitchellh/mapstructure v1.5.0
 	github.com/stretchr/testify v1.8.0
+	golang.org/x/exp v0.0.0-20231127185646-65229373498e
 )
 
 require (
